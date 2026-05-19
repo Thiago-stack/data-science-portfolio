@@ -13,7 +13,7 @@ A portfolio of data science projects developed during my Master's in Analytics, 
 
 ---
 
-### NBA prop Prediction Engine
+### NBA Prop Prediction Engine
 
 Built and interactive machine learning application for estimating NBA player prop over/under probabilities using rolling player performance, matchup context, and game enviornment features.
 
